@@ -1,4 +1,4 @@
-# [Outerbase](https://docs.outerbase.com/) Plugin Template
+# [Outerbase](https://docs.outerbase.com/) Cell Plugin Template
 This repository aims to enable code splitting for developers, making the creation of plugins with multiple files easier. You can utilize this repository as a template for your project, helping you kickstart the development of a table plugin. Simply customize the pluginEntry.js file to align with table plugin methods.
 
 # How to use?
